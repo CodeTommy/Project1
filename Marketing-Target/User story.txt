@@ -1,0 +1,13 @@
+User story: 
+
+S : Jill is the business owner of Marketing Target Inc. which has just started a few months ago, they have  
+a various products and services wanted to reach customers online. Due to lack of experience and Public relation, 
+they hire a 5 individuals Web Developer to create a Website and maintain it as business needs. 
+
+The Website must have an API to interact with Web / Store admin, to get the customer needs and ideas.
+
+T: Web Developers to start from scratch and work altogether to finish the project in set given time of 1 week.
+
+A: By giving a template webiste to each 5 Dev. Jr's, this is going a base of everything, everyone will work and edit 
+     the website. Submit each improvements to Slack in .zip file. By this August 14, 2021, members will vote on which
+     one to submit and that one project will represent  a group project.
